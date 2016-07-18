@@ -1,6 +1,6 @@
 {
   "name": "WorldWindExplorer",
   "tagline": "A geo-browser app framework based on NASA Web World Wind",
-  "body": "# World Wind Explorer\r\nLive demo: [http//:explorer.worldwind.earth](http//:explorer.worldwind.earth)\r\n## Use Cases\r\n![](https://raw.githubusercontent.com/emxsys/WorldWindExplorer/gh-pages/images/wwexplorer_use_cases.png)\r\n\r\n## License\r\n    /* \r\n     * Copyright (c) 2016 Bruce Schubert.\r\n     * The MIT License\r\n     * http://www.opensource.org/licenses/mit-license\r\n     */\r\n",
+  "body": "# World Wind Explorer\r\nLive demo: [http://explorer.worldwind.earth](http://explorer.worldwind.earth)\r\n## Use Cases\r\n![](https://raw.githubusercontent.com/emxsys/WorldWindExplorer/gh-pages/images/wwexplorer_use_cases.png)\r\n\r\n## License\r\n    /* \r\n     * Copyright (c) 2016 Bruce Schubert.\r\n     * The MIT License\r\n     * http://www.opensource.org/licenses/mit-license\r\n     */\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
